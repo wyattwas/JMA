@@ -1,4 +1,0 @@
-include ':mastodon4j', ':mastodon4j-rx'
-include 'sample'
-include 'sample-kotlin'
-
